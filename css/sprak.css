@@ -1,3 +1,9 @@
 .max-height-90{
   max-height: 60px;
 }
+html, body {
+  overflow-x: hidden;
+}
+body {
+  position: relative
+}
