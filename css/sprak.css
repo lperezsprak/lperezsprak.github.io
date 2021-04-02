@@ -7,3 +7,15 @@ html, body {
 body {
   position: relative
 }
+.sprak-blue{
+  color: #12acbd;
+}
+.sprak-blue-background{
+  background-color: #12acbd;
+}
+.sprak-yellow{
+  color: #f3d232;
+}
+.sprak-yellow-background{
+  color: #f3d232;
+}
